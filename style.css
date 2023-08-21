@@ -1,0 +1,39 @@
+*{
+   margin:0;
+   padding:0;
+}
+ html{
+   background-color:rgba(82, 80, 80, 0.76);
+   text-align: center;
+ }
+ .input{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(8, 8, 20);
+ }
+ #click{
+   width: 130px;
+   height:30px;
+   color:white;
+   border-radius: 5rem;
+   font-size: 17px;
+   background-color: black;
+   cursor: pointer;
+ }
+ table {
+   border-collapse: collapse;
+   margin: 50px auto;
+   width: 50%;
+   background-color: aqua;
+   
+
+ }
+ table,th,td{
+border:2px solid black;
+padding: 5px;
+text-align: start;
+
+ }
+ th{
+   font-size:16px;
+ }
